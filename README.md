@@ -1,3 +1,6 @@
+# Source: https://github.com/vuongtungan/Tool-Reg-Clone
+Date: 31-03-2022
+
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
